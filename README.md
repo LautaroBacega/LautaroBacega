@@ -47,13 +47,17 @@ Estoy comprometido con la mejora continua, la implementación de soluciones tecn
 Aquí presento algunos de mis trabajos recientes, extraídos de mi portfolio:
 
 *   **Ecommerce - Tienda Bmx:** Un e-commerce completo con integración de frontend y backend.
-    *   [Ver Proyecto](https://bacegalautaro.netlify.app/#projects) 
+    *   [Ver Proyecto](https://tienda-bmx-render.onrender.com/)
+
+*   **Autenticacion MERN:** Una solución completa de autenticación con registro, inicio de sesión, OAuth con Google, gestión de perfiles y restablecimiento de contraseñas.
+    *   [Ver Proyecto](https://autenticacion-o8nx.onrender.com/)
 
 *   **CineLista:** Aquí podras organizar tus películas favoritas, crear listas personalizadas y compartir tus descubrimientos cinematográficos.
-    *   [Ver Proyecto](https://bacegalautaro.netlify.app/#projects)
+    *   [Ver Proyecto](https://movieapp-8x3t.onrender.com/)
 
-*   **Escuela de BMX Freestyle:** Plataforma para Asociacion y Escuela de Bmx Freestyle
-    *   [Ver Proyecto](https://bacegalautaro.netlify.app/#projects)
+*   **Escuela de BMX Freestyle:** Landing Page para Asociacion y Escuela de Bmx Freestyle
+    *   [Ver Proyecto](https://abbmxfreestyle.netlify.app/)
+
 
 Puedes explorar más proyectos en mi [Portfolio Web](https://bacegalautaro.netlify.app/#projects).
 
