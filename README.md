@@ -31,12 +31,6 @@ Soy un **desarrollador Full Stack** recién graduado con una gran pasión por cr
 
 ## 💼 Experiencia Profesional
 
-### 🏢 **Desarrollador Full Stack** | Prácticas Profesionales
-**Plataforma de Bolsa de Trabajo**
-- Diseñé y desarrollé una plataforma completa que conecta profesionales con oportunidades laborales
-- Implementé funcionalidades de registro, búsqueda avanzada y matching de perfiles
-- Tecnologías: React, Node.js, MongoDB, Express.js
-
 ### 💻 **Freelancer** | Desarrollo Web
 **E-commerce en desarrollo**
 - Desarrollo de tienda online completa con carrito de compras y sistema de pagos
@@ -95,11 +89,11 @@ Soy un **desarrollador Full Stack** recién graduado con una gran pasión por cr
 ### 🛒 **Ecommerce - Tienda BMX**
 > E-commerce completo con carrito de compras, sistema de pagos y panel administrativo
 
-**Tecnologías:** React, Node.js, MongoDB, Express.js, Stripe  
+**Tecnologías:** React, Node.js, MongoDB, Express.js  
 **Características:** Autenticación, carrito persistente, gestión de inventario, responsive design
 
 [![Ver Demo](https://img.shields.io/badge/Ver_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://tienda-bmx-render.onrender.com/)
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LautaroBacega/Tienda-BMX-render.git)
 
 ---
 
@@ -110,7 +104,7 @@ Soy un **desarrollador Full Stack** recién graduado con una gran pasión por cr
 **Características:** JWT, OAuth con Google, reset de contraseñas, validaciones
 
 [![Ver Demo](https://img.shields.io/badge/Ver_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://autenticacion-o8nx.onrender.com/)
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LautaroBacega/MERN-Authentication-System.git)
 
 ---
 
@@ -121,7 +115,7 @@ Soy un **desarrollador Full Stack** recién graduado con una gran pasión por cr
 **Características:** Búsqueda avanzada, listas personalizadas, favoritos, responsive
 
 [![Ver Demo](https://img.shields.io/badge/Ver_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://movieapp-8x3t.onrender.com/)
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LautaroBacega/CineLista.git)
 
 ---
 
@@ -132,11 +126,11 @@ Soy un **desarrollador Full Stack** recién graduado con una gran pasión por cr
 **Características:** Diseño moderno, animaciones, formulario de contacto
 
 [![Ver Demo](https://img.shields.io/badge/Ver_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://abbmxfreestyle.netlify.app/)
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LautaroBacega/ABBMXFreestyle.git)
 
 <div align="center">
 
-[![Ver Más Proyectos](https://img.shields.io/badge/Ver_Más_Proyectos-2196F3?style=for-the-badge&logo=portfolio&logoColor=white)](https://bacegalautaro.netlify.app/#projects)
+[![Ver Más Proyectos](https://img.shields.io/badge/Ver_Más_Proyectos-2196F3?style=for-the-badge&logo=portfolio&logoColor=white)](https://bacegalautaro.netlify.app/#portfolio)
 
 </div>
 
@@ -152,7 +146,7 @@ Soy un **desarrollador Full Stack** recién graduado con una gran pasión por cr
 - **🚀 Desarrollo Frontend React** - CoderHouse (2022-2023)
 - **⚙️ Desarrollo Backend** - CoderHouse (2024)
 
-[![Ver Certificaciones](https://img.shields.io/badge/Ver_Certificaciones-4CAF50?style=for-the-badge&logo=certificate&logoColor=white)](https://bacegalautaro.netlify.app/#certificates)
+[![Ver Certificaciones](https://img.shields.io/badge/Ver_Certificaciones-4CAF50?style=for-the-badge&logo=certificate&logoColor=white)](https://bacegalautaro.netlify.app/#certificados)
 
 ---
 
@@ -173,13 +167,6 @@ Soy un **desarrollador Full Stack** recién graduado con una gran pasión por cr
 | SSL y seguridad | Soporte continuo | Arquitectura |
 
 </div>
-
----
-
-## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
