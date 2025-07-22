@@ -4,7 +4,7 @@ Soy **Técnico Superior en Análisis de Sistemas**, recientemente graduado y rad
 
 ---
 
-### 🚀 Mi Experiencia y Lo que Ofrezco
+### 🚀 Mi Experiencia y lo que ofrezco
 
 Durante mis prácticas profesionales, diseñé y desarrollé una **plataforma de bolsa de trabajo** que facilitó la conexión entre profesionales y oportunidades laborales. Además, como freelancer, estoy finalizando mi primer **e-commerce**, integrando tecnologías tanto de frontend como de backend para ofrecer una experiencia de usuario óptima.
 
@@ -49,13 +49,13 @@ Aquí presento algunos de mis trabajos recientes, extraídos de mi portfolio:
 *   **Ecommerce - Tienda Bmx:** Un e-commerce completo con integración de frontend y backend.
     *   [Ver Proyecto](https://bacegalautaro.netlify.app/#projects) 
 
-*   **CineLista:** Aplicación relacionada con películas o listas de cine)
+*   **CineLista:** Aquí podras organizar tus películas favoritas, crear listas personalizadas y compartir tus descubrimientos cinematográficos.
     *   [Ver Proyecto](https://bacegalautaro.netlify.app/#projects)
 
 *   **Escuela de BMX Freestyle:** Plataforma para Asociacion y Escuela de Bmx Freestyle
     *   [Ver Proyecto](https://bacegalautaro.netlify.app/#projects)
 
-Puedes explorar más proyectos en mi [portfolio web](https://bacegalautaro.netlify.app/#projects).
+Puedes explorar más proyectos en mi [Portfolio Web](https://bacegalautaro.netlify.app/#projects).
 
 ---
 
